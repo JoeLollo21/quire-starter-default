@@ -6,5 +6,4 @@ menu: false
 toc: false
 image: spiral-overlay.png
 ---
-
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+In 2014, two game designers named Nomel and Camerupt connected over Twitter over their shared love of memes relating to the ''Pokémon'' franchise. While the exact catalyst isn't known to the world, one suggested the development of an entire ''Pokémon'' game themed after meme culture, with a new story, new characters, and changes to the gameplay mechanics. Thus, ''Pokémon Clover'' was born, a monumental creation in the world of ROM hacking. Its mastery of the game design medium, and commentary on fan culture, provides an important insight into the nature of gaming fandoms.
