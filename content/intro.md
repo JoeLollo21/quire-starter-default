@@ -1,6 +1,6 @@
 ---
 title: Introduction
-subtitle: A Tale of Two Photographers
+subtitle: What is *Pokemon Clover*?
 layout: splash
 order: 10
 image: figures/lange-house.jpg
