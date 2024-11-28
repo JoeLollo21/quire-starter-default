@@ -1,9 +1,9 @@
 ---
 title: Introduction
-subtitle: What is *Pokemon Clover*?
+subtitle: Craigslist is a Continuation of <em>The Oregon Trail</em>
 layout: splash
 order: 10
-image: figures/lange-house.jpg
+image: figures/craigslist.jpg
 ---
 
 Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
